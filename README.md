@@ -3,7 +3,7 @@
 
 [The JavaScript language](https://javascript.info/js)
 
-[Professional JavaScript for Web Developers]
+[Professional JavaScript for Web Developers]()
 
 [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 
